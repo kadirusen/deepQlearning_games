@@ -16,13 +16,13 @@ $ source venv/bin/activate
 $ pip3 install -r requirements.txt
 ```
 
-## Start train agent for space_game
+## Start agent train for space_game
 
 ```sh
 $ cd deepQlearning_space_game
 $ python dql_rl_game.py 
 ```
-## Start train agent for pong_game
+## Start agent train for pong_game
 
 ```sh
 $ cd deepQlearning_pong_game
